@@ -1,0 +1,8 @@
+gas_bucket,tx_count
+1-3 gwei,4642118
+10-20 gwei,122211
+20-50 gwei,45692
+3-5 gwei,765600
+5-10 gwei,433318
+< 1 gwei,6457868
+> 50 gwei,15620

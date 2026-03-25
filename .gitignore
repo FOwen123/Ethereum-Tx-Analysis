@@ -1,0 +1,8 @@
+# Credentials
+gcp-key.json
+bigdata-key.pem
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pbix
